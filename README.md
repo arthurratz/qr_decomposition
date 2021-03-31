@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Leverage QR Decomposition of large-sized **real** and **complex** matrices of an arbitrary shape using the variety of methods: **Gram-Schmidt Orthogonalization**, **Schwarz-Rutishauser Algorithm**, **Householder Reflections**, surveying the performance. 
+Leverage QR Decomposition of large-sized **real** and **complex** matrices of an arbitrary shape using the variety of methods: **Gram-Schmidt Orthogonalization**, **Schwarz-Rutishauser Algorithm**, **Householder Reflections**, and surveying the performance. 
 
 Source codes in **Python 3.9.x (64-bit)** / **Intel® Distribution for Python 2021.1.1** using the latest **Numpy 1.20.2** library, **Microsoft Visual Studio 2019** Python's project:
 
