@@ -36,7 +36,7 @@ def qr_gs_modsr(A, type=complex):
        # Compute r[k,i] element in R, k-th column q[k] in Q;
 
     for k in range(n):
-        # For a span of the previous column vectors q[i..k] in Q, 
+        # For a span of the previous column vectors q[0..k] in Q, 
         # compute the R[i,k] element in R as the inner product of vectors q[i] and q[k],
         # compute k-th column vector q[k] as the product of scalar R[i,k] and i-th vector q[i],
         # subtracting it from the k-th column vector q[k] in Q
