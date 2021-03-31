@@ -5,15 +5,15 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Leverage the QR Decomposition of large-sized **real** and **complex** matrices of an arbitrary shape with the variety of methods: **Gram-Schmidt Orthogonalization**, **Schwarz-Rutishauser Algorithm**, **Householder Reflections**, surveying its performance. 
+Leverage QR Decomposition of large-sized **real** and **complex** matrices of an arbitrary shape using the variety of methods: **Gram-Schmidt Orthogonalization**, **Schwarz-Rutishauser Algorithm**, **Householder Reflections**, surveying the performance. 
 
 Source codes in **Python 3.9.x (64-bit)** / **Intel® Distribution for Python 2021.1.1** using the latest **Numpy 1.20.2** library, **Microsoft Visual Studio 2019** Python's project:
 
 ## Usage:
 
-To perform QR decomposition of a randomly generated matrix A of an arbitrary shape, download the project and run the following code in your Python-environment:
+To perform QR decomposition of a randomly generated matrix A of an arbitrary shape, download the project and run the code in your Python-environment:
 
-Please don't forget to import the following Py's-modules to your project, and define a `real` or `complex` matrix A, such as:
+Please don't forget to import the following Py-modules to your project, as well as to define a `real` or `complex` matrix A (see example below):
 
 **example.py**:
 ```
