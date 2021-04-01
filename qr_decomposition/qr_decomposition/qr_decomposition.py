@@ -24,7 +24,7 @@ from qr_gschmidt import *
 from qr_gs_schwrt import *
 from qr_householder import *
 
-mat_shape      = { 'min': 3,   'max': 10   }
+mat_shape      = { 'min': 3,   'max': 15   }
 mat_shape_perf = { 'min': 750, 'max': 950  }
 
 qr_alg         = [ { 'alg': qr_gs,       'name': 'Gram-Schmidt       ' },
