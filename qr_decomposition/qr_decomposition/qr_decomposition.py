@@ -39,7 +39,7 @@ checkup_banner = "\n[ Verification %s... ]"
 stats_banner   = "%s Matrix A Statistics:\n"
 qr_test_banner = "\nQR Factorization Of A `%s` Matrix Using %s Algorithm:"
 survey_banner  = "Matrix: %s    WINS: [ %s : %d secs  ] LOOSES: [ %s : %d secs ]"
-perf_stats     = "%s : [ type: `%s` exec_time: %d ns verification: %s ]"
+perf_stats     = "%s : [ type: `%s` exec_time: %d secs verification: %s ]"
 
 app_banner     = "QR Factorization v.0.0.1 CPOL License (C) 2021 by Arthur V. Ratz"
 
